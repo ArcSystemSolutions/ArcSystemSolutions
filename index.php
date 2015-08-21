@@ -74,34 +74,34 @@
         </div>
         <div class="row">
             <a href="sap-data-archiving.php">
-                <div class="col-sm-4 col-md-3">
+                <div class="col-sm-4 col-md-6">
                     <div class="media services-wrap wow fadeInDown">
                         <div class="pull-left">
-                            <img class="img-responsive" src="images/services/services1.png">
+                            <img class="img-responsive" src="images/services/sap-logo.png">
                         </div>
                         <div class="media-body">
-                            <h3 class="media-heading">SAP<sup>&reg;</sup> Data Archiving</h3>
+                            <h3 class="media-heading">Data Archiving</h3>
                         </div>
                     </div>
                 </div>
             </a>
             <a href="sap-document-archiving.php">
-                <div class="col-sm-4 col-md-3">
+                <div class="col-sm-4 col-md-6">
                     <div class="media services-wrap wow fadeInDown">
                         <div class="pull-left">
-                            <img class="img-responsive" src="images/services/services2.png">
+                            <img class="img-responsive" src="images/services/sap-logo.png">
                         </div>
                         <div class="media-body">
-                            <h3 class="media-heading">SAP<sup>&reg;</sup> Document Archiving</h3>
+                            <h3 class="media-heading">Document Archiving</h3>
                         </div>
                     </div>
                 </div>
             </a>
             <a href="custom-archive-solutions.php">
-                <div class="col-sm-4 col-md-3">
+                <div class="col-sm-4 col-md-6">
                     <div class="media services-wrap wow fadeInDown">
                         <div class="pull-left">
-                            <img class="img-responsive" src="images/services/services3.png">
+                            <img class="img-responsive" src="images/services/sap-logo.png">
                         </div>
                         <div class="media-body">
                             <h3 class="media-heading">Custom Archive Solutions</h3>
@@ -110,13 +110,13 @@
                 </div>
             </a>
             <a href="sap-hana-archiving.php">
-                <div class="col-sm-4 col-md-3">
+                <div class="col-sm-4 col-md-6">
                     <div class="media services-wrap wow fadeInDown">
                         <div class="pull-left">
-                            <img class="img-responsive" src="images/services/services4.png">
+                            <img class="img-responsive" src="images/services/sap-hana-logo.png">
                         </div>
                         <div class="media-body">
-                            <h3 class="media-heading">SAP HANA<sup>&reg;</sup> Archiving</h3>
+                            <h3 class="media-heading">Archiving</h3>
                         </div>
                     </div>
                 </div>
