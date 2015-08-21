@@ -8,7 +8,7 @@
             <div class="row">
                 <div class="col-sm-5 text-center">
                     <div class="gmap">
-                        <iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.google.co.za/maps/place/109+Venter+St,+Pretoria,+0084/@-25.72997,28.182625,17z/data=!3m1!4b1!4m2!3m1!1s0x1ebfd8a207b7d755:0x2ea6c3393c283cf5"></iframe>
+                        <iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3594.228080289545!2d28.182624999999998!3d-25.72997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1ebfd8a207b7d755%3A0x2ea6c3393c283cf5!2s109+Venter+St%2C+Pretoria%2C+0084!5e0!3m2!1sen!2sza!4v1440138547018"></iframe>
                     </div>
                 </div>
                 <div class="col-sm-7 map-content">
